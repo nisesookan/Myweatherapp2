@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Myweatherapp2</string>
+    <string name="average_screen_time_2f_hours_day">Average Screen Time: %.2f hours/day</string>
+</resources>
